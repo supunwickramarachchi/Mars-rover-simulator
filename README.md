@@ -27,7 +27,7 @@ This simulator is part of my self-learning journey toward becoming a software en
 
 ![Mars Rover GUI](assets/screenshot_1.PNG)
 
-![📽️ Watch the demo](https://drive.google.com/file/d/1niIJhJHvHs4OTMCzBikuA6mWzcwzrBcT/view?usp=sharing)
+[📽️ Watch the demo](https://drive.google.com/file/d/1niIJhJHvHs4OTMCzBikuA6mWzcwzrBcT/view?usp=sharing)
 
 
 ## 🛠️ Built With
