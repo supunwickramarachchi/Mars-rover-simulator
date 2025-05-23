@@ -1,0 +1,400 @@
+[2025-05-23 12:14:55] Command: MOVE | 📍 Position: (0, 1) | Facing: N
+[2025-05-23 12:15:02] Command: LEFT | 📍 Position: (0, 1) | Facing: W
+[2025-05-23 12:15:09] Command: STATUS | 📍 Position: (0, 1) | Facing: W
+[2025-05-23 12:19:36] Command: STATUS | 📍 Position: (0, 0) | Facing: N
+[2025-05-23 12:19:41] Command: STATUS | 📍 Position: (0, 0) | Facing: E
+[2025-05-23 12:19:41] Command: RIGHT | None
+[2025-05-23 12:19:43] Command: STATUS | 📍 Position: (0, 0) | Facing: S
+[2025-05-23 12:19:43] Command: RIGHT | None
+[2025-05-23 12:19:44] Command: STATUS | 📍 Position: (0, 0) | Facing: W
+[2025-05-23 12:19:44] Command: RIGHT | None
+[2025-05-23 12:19:44] Command: STATUS | 📍 Position: (0, 0) | Facing: N
+[2025-05-23 12:19:44] Command: RIGHT | None
+[2025-05-23 12:19:45] Command: STATUS | 📍 Position: (0, 0) | Facing: E
+[2025-05-23 12:19:45] Command: RIGHT | None
+[2025-05-23 12:19:46] Command: STATUS | 📍 Position: (0, 0) | Facing: S
+[2025-05-23 12:19:46] Command: RIGHT | None
+[2025-05-23 12:19:46] Command: STATUS | 📍 Position: (0, 0) | Facing: W
+[2025-05-23 12:19:46] Command: RIGHT | None
+[2025-05-23 12:19:47] Command: STATUS | 📍 Position: (0, 0) | Facing: W
+[2025-05-23 12:19:47] Command: MOVE | None
+[2025-05-23 12:19:50] Command: STATUS | 📍 Position: (0, 0) | Facing: N
+[2025-05-23 12:19:51] Command: RIGHT | None
+[2025-05-23 12:19:52] Command: STATUS | 📍 Position: (0, 1) | Facing: N
+[2025-05-23 12:19:52] Command: MOVE | None
+[2025-05-23 12:19:56] Command: STATUS | 📍 Position: (0, 2) | Facing: N
+[2025-05-23 12:19:56] Command: MOVE | None
+[2025-05-23 12:19:57] Command: STATUS | 📍 Position: (0, 2) | Facing: E
+[2025-05-23 12:19:57] Command: RIGHT | None
+[2025-05-23 12:19:58] Command: STATUS | 📍 Position: (0, 2) | Facing: S
+[2025-05-23 12:19:58] Command: RIGHT | None
+[2025-05-23 12:19:58] Command: STATUS | 📍 Position: (0, 2) | Facing: W
+[2025-05-23 12:19:58] Command: RIGHT | None
+[2025-05-23 12:19:59] Command: STATUS | 📍 Position: (0, 2) | Facing: N
+[2025-05-23 12:19:59] Command: RIGHT | None
+[2025-05-23 12:20:00] Command: STATUS | 📍 Position: (0, 2) | Facing: E
+[2025-05-23 12:20:00] Command: RIGHT | None
+[2025-05-23 12:20:00] Command: STATUS | 📍 Position: (0, 2) | Facing: S
+[2025-05-23 12:20:00] Command: RIGHT | None
+[2025-05-23 12:20:01] Command: STATUS | 📍 Position: (0, 2) | Facing: W
+[2025-05-23 12:20:01] Command: RIGHT | None
+[2025-05-23 12:20:02] Command: STATUS | 📍 Position: (0, 2) | Facing: N
+[2025-05-23 12:20:02] Command: RIGHT | None
+[2025-05-23 12:20:02] Command: STATUS | 📍 Position: (0, 2) | Facing: E
+[2025-05-23 12:20:02] Command: RIGHT | None
+[2025-05-23 12:20:03] Command: STATUS | 📍 Position: (0, 2) | Facing: S
+[2025-05-23 12:20:03] Command: RIGHT | None
+[2025-05-23 12:20:03] Command: STATUS | 📍 Position: (0, 2) | Facing: W
+[2025-05-23 12:20:03] Command: RIGHT | None
+[2025-05-23 12:20:04] Command: STATUS | 📍 Position: (0, 2) | Facing: W
+[2025-05-23 12:20:04] Command: MOVE | None
+[2025-05-23 12:20:06] Command: STATUS | 📍 Position: (0, 2) | Facing: S
+[2025-05-23 12:20:06] Command: LEFT | None
+[2025-05-23 12:20:07] Command: STATUS | 📍 Position: (0, 2) | Facing: E
+[2025-05-23 12:20:07] Command: LEFT | None
+[2025-05-23 12:20:08] Command: STATUS | 📍 Position: (0, 2) | Facing: N
+[2025-05-23 12:20:08] Command: LEFT | None
+[2025-05-23 12:20:09] Command: STATUS | 📍 Position: (0, 3) | Facing: N
+[2025-05-23 12:20:09] Command: MOVE | None
+[2025-05-23 12:20:10] Command: STATUS | 📍 Position: (0, 4) | Facing: N
+[2025-05-23 12:20:10] Command: MOVE | None
+[2025-05-23 12:20:11] Command: STATUS | 📍 Position: (0, 4) | Facing: N
+[2025-05-23 12:20:11] Command: MOVE | None
+[2025-05-23 12:20:12] Command: STATUS | 📍 Position: (0, 4) | Facing: E
+[2025-05-23 12:20:12] Command: RIGHT | None
+[2025-05-23 12:20:14] Command: STATUS | 📍 Position: (0, 4) | Facing: N
+[2025-05-23 12:20:14] Command: LEFT | None
+[2025-05-23 12:20:14] Command: STATUS | 📍 Position: (0, 4) | Facing: E
+[2025-05-23 12:20:14] Command: RIGHT | None
+[2025-05-23 12:20:15] Command: STATUS | 📍 Position: (1, 4) | Facing: E
+[2025-05-23 12:20:15] Command: MOVE | None
+[2025-05-23 12:20:15] Command: STATUS | 📍 Position: (2, 4) | Facing: E
+[2025-05-23 12:20:15] Command: MOVE | None
+[2025-05-23 12:20:17] Command: STATUS | 📍 Position: (3, 4) | Facing: E
+[2025-05-23 12:20:17] Command: MOVE | None
+[2025-05-23 12:20:18] Command: STATUS | 📍 Position: (4, 4) | Facing: E
+[2025-05-23 12:20:18] Command: MOVE | None
+[2025-05-23 12:20:21] Command: STATUS | 📍 Position: (4, 4) | Facing: S
+[2025-05-23 12:20:21] Command: RIGHT | None
+[2025-05-23 12:20:21] Command: STATUS | 📍 Position: (4, 4) | Facing: W
+[2025-05-23 12:20:21] Command: RIGHT | None
+[2025-05-23 12:20:22] Command: STATUS | 📍 Position: (4, 4) | Facing: N
+[2025-05-23 12:20:22] Command: RIGHT | None
+[2025-05-23 12:20:23] Command: STATUS | 📍 Position: (4, 4) | Facing: N
+[2025-05-23 12:20:23] Command: MOVE | None
+[2025-05-23 12:20:23] Command: STATUS | 📍 Position: (4, 4) | Facing: N
+[2025-05-23 12:20:23] Command: MOVE | None
+[2025-05-23 12:20:25] Command: STATUS | 📍 Position: (4, 4) | Facing: E
+[2025-05-23 12:20:25] Command: RIGHT | None
+[2025-05-23 12:20:25] Command: STATUS | 📍 Position: (4, 4) | Facing: S
+[2025-05-23 12:20:25] Command: RIGHT | None
+[2025-05-23 12:20:26] Command: STATUS | 📍 Position: (4, 4) | Facing: W
+[2025-05-23 12:20:26] Command: RIGHT | None
+[2025-05-23 12:20:26] Command: STATUS | 📍 Position: (4, 4) | Facing: N
+[2025-05-23 12:20:26] Command: RIGHT | None
+[2025-05-23 12:20:27] Command: STATUS | 📍 Position: (4, 4) | Facing: N
+[2025-05-23 12:20:27] Command: MOVE | None
+[2025-05-23 12:20:34] Command: STATUS | 📍 Position: (4, 4) | Facing: E
+[2025-05-23 12:20:34] Command: RIGHT | None
+[2025-05-23 12:20:35] Command: STATUS | 📍 Position: (4, 4) | Facing: S
+[2025-05-23 12:20:35] Command: RIGHT | None
+[2025-05-23 12:20:36] Command: STATUS | 📍 Position: (4, 3) | Facing: S
+[2025-05-23 12:20:36] Command: MOVE | None
+[2025-05-23 12:20:38] Command: STATUS | 📍 Position: (4, 2) | Facing: S
+[2025-05-23 12:20:38] Command: MOVE | None
+[2025-05-23 12:20:39] Command: STATUS | 📍 Position: (4, 1) | Facing: S
+[2025-05-23 12:20:39] Command: MOVE | None
+[2025-05-23 12:20:41] Command: STATUS | 📍 Position: (4, 1) | Facing: E
+[2025-05-23 12:20:41] Command: LEFT | None
+[2025-05-23 12:20:44] Command: STATUS | 📍 Position: (4, 1) | Facing: E
+[2025-05-23 12:20:44] Command: MOVE | None
+[2025-05-23 12:20:45] Command: STATUS | 📍 Position: (4, 1) | Facing: N
+[2025-05-23 12:20:45] Command: LEFT | None
+[2025-05-23 12:20:46] Command: STATUS | 📍 Position: (4, 2) | Facing: N
+[2025-05-23 12:20:46] Command: MOVE | None
+[2025-05-23 12:20:48] Command: STATUS | 📍 Position: (4, 2) | Facing: W
+[2025-05-23 12:20:48] Command: LEFT | None
+[2025-05-23 12:20:48] Command: STATUS | 📍 Position: (3, 2) | Facing: W
+[2025-05-23 12:20:48] Command: MOVE | None
+[2025-05-23 12:20:50] Command: STATUS | 📍 Position: (3, 2) | Facing: S
+[2025-05-23 12:20:50] Command: LEFT | None
+[2025-05-23 12:20:51] Command: STATUS | 📍 Position: (3, 2) | Facing: S
+[2025-05-23 12:20:51] Command: MOVE | None
+[2025-05-23 12:27:59] Command: STATUS | 📍 Position: (0, 0) | Facing: N
+[2025-05-23 12:28:14] Command: STATUS | 📍 Position: (0, 0) | Facing: N
+[2025-05-23 12:28:14] Command: UNDO | ❌ Nothing to undo
+[2025-05-23 12:28:15] Command: STATUS | 📍 Position: (0, 0) | Facing: N
+[2025-05-23 12:28:15] Command: RESET | 🔄 Reset to start
+[2025-05-23 12:28:15] Command: STATUS | 📍 Position: (0, 0) | Facing: E
+[2025-05-23 12:28:15] Command: RIGHT | None
+[2025-05-23 12:28:16] Command: STATUS | 📍 Position: (0, 0) | Facing: S
+[2025-05-23 12:28:16] Command: RIGHT | None
+[2025-05-23 12:28:17] Command: STATUS | 📍 Position: (0, 0) | Facing: W
+[2025-05-23 12:28:17] Command: RIGHT | None
+[2025-05-23 12:28:17] Command: STATUS | 📍 Position: (0, 0) | Facing: N
+[2025-05-23 12:28:17] Command: RIGHT | None
+[2025-05-23 12:28:18] Command: STATUS | 📍 Position: (0, 1) | Facing: N
+[2025-05-23 12:28:18] Command: MOVE | None
+[2025-05-23 12:28:19] Command: STATUS | 📍 Position: (0, 2) | Facing: N
+[2025-05-23 12:28:19] Command: MOVE | None
+[2025-05-23 12:28:19] Command: STATUS | 📍 Position: (0, 0) | Facing: N
+[2025-05-23 12:28:19] Command: RESET | 🔄 Reset to start
+[2025-05-23 12:28:21] Command: STATUS | 📍 Position: (0, 1) | Facing: N
+[2025-05-23 12:28:21] Command: MOVE | None
+[2025-05-23 12:28:21] Command: STATUS | 📍 Position: (0, 2) | Facing: N
+[2025-05-23 12:28:21] Command: MOVE | None
+[2025-05-23 12:28:22] Command: STATUS | 📍 Position: (0, 2) | Facing: N
+[2025-05-23 12:28:22] Command: UNDO | ❌ Nothing to undo
+[2025-05-23 12:28:23] Command: STATUS | 📍 Position: (0, 2) | Facing: N
+[2025-05-23 12:28:23] Command: UNDO | ❌ Nothing to undo
+[2025-05-23 12:28:23] Command: STATUS | 📍 Position: (0, 2) | Facing: N
+[2025-05-23 12:28:23] Command: UNDO | ❌ Nothing to undo
+[2025-05-23 12:28:23] Command: STATUS | 📍 Position: (0, 2) | Facing: N
+[2025-05-23 12:28:23] Command: UNDO | ❌ Nothing to undo
+[2025-05-23 12:28:24] Command: STATUS | 📍 Position: (0, 3) | Facing: N
+[2025-05-23 12:28:24] Command: MOVE | None
+[2025-05-23 12:28:26] Command: STATUS | 📍 Position: (0, 4) | Facing: N
+[2025-05-23 12:28:26] Command: MOVE | None
+[2025-05-23 12:28:26] Command: STATUS | 📍 Position: (0, 4) | Facing: N
+[2025-05-23 12:28:26] Command: MOVE | None
+[2025-05-23 12:28:27] Command: STATUS | 📍 Position: (0, 4) | Facing: N
+[2025-05-23 12:28:27] Command: MOVE | None
+[2025-05-23 12:28:46] Command: STATUS | 📍 Position: (0, 4) | Facing: N
+[2025-05-23 12:28:46] Command: MOVE | None
+[2025-05-23 12:28:47] Command: STATUS | 📍 Position: (0, 4) | Facing: E
+[2025-05-23 12:28:47] Command: RIGHT | None
+[2025-05-23 12:28:48] Command: STATUS | 📍 Position: (1, 4) | Facing: E
+[2025-05-23 12:28:48] Command: MOVE | None
+[2025-05-23 12:28:49] Command: STATUS | 📍 Position: (2, 4) | Facing: E
+[2025-05-23 12:28:49] Command: MOVE | None
+[2025-05-23 12:28:50] Command: STATUS | 📍 Position: (3, 4) | Facing: E
+[2025-05-23 12:28:50] Command: MOVE | None
+[2025-05-23 12:28:51] Command: STATUS | 📍 Position: (3, 4) | Facing: E
+[2025-05-23 12:28:51] Command: UNDO | ❌ Nothing to undo
+[2025-05-23 12:28:53] Command: STATUS | 📍 Position: (3, 4) | Facing: E
+[2025-05-23 12:28:53] Command: UNDO | ❌ Nothing to undo
+[2025-05-23 12:28:54] Command: STATUS | 📍 Position: (0, 0) | Facing: N
+[2025-05-23 12:28:54] Command: RESET | 🔄 Reset to start
+[2025-05-23 12:28:56] Command: STATUS | 📍 Position: (0, 0) | Facing: W
+[2025-05-23 12:28:56] Command: LEFT | None
+[2025-05-23 12:28:56] Command: STATUS | 📍 Position: (0, 0) | Facing: W
+[2025-05-23 12:28:56] Command: MOVE | None
+[2025-05-23 12:28:57] Command: STATUS | 📍 Position: (0, 0) | Facing: W
+[2025-05-23 12:28:57] Command: MOVE | None
+[2025-05-23 12:28:57] Command: STATUS | 📍 Position: (0, 0) | Facing: W
+[2025-05-23 12:28:57] Command: MOVE | None
+[2025-05-23 12:30:44] Command: STATUS | 📍 Position: (0, 0) | Facing: N
+[2025-05-23 12:30:45] Command: STATUS | 📍 Position: (0, 0) | Facing: N
+[2025-05-23 12:30:45] Command: UNDO | ❌ Nothing to undo
+[2025-05-23 12:30:46] Command: STATUS | 📍 Position: (0, 0) | Facing: N
+[2025-05-23 12:30:46] Command: UNDO | ❌ Nothing to undo
+[2025-05-23 12:30:46] Command: STATUS | 📍 Position: (0, 0) | Facing: N
+[2025-05-23 12:30:46] Command: UNDO | ❌ Nothing to undo
+[2025-05-23 12:30:46] Command: STATUS | 📍 Position: (0, 0) | Facing: N
+[2025-05-23 12:30:46] Command: UNDO | ❌ Nothing to undo
+[2025-05-23 12:30:46] Command: STATUS | 📍 Position: (0, 0) | Facing: N
+[2025-05-23 12:30:46] Command: UNDO | ❌ Nothing to undo
+[2025-05-23 12:30:48] Command: STATUS | 📍 Position: (0, 1) | Facing: N
+[2025-05-23 12:30:48] Command: MOVE | None
+[2025-05-23 12:30:48] Command: STATUS | 📍 Position: (0, 2) | Facing: N
+[2025-05-23 12:30:48] Command: MOVE | None
+[2025-05-23 12:30:49] Command: STATUS | 📍 Position: (0, 2) | Facing: N
+[2025-05-23 12:30:49] Command: UNDO | ❌ Nothing to undo
+[2025-05-23 12:30:49] Command: STATUS | 📍 Position: (0, 2) | Facing: N
+[2025-05-23 12:30:49] Command: UNDO | ❌ Nothing to undo
+[2025-05-23 12:30:49] Command: STATUS | 📍 Position: (0, 2) | Facing: N
+[2025-05-23 12:30:49] Command: UNDO | ❌ Nothing to undo
+[2025-05-23 12:30:50] Command: STATUS | 📍 Position: (0, 2) | Facing: N
+[2025-05-23 12:30:50] Command: UNDO | ❌ Nothing to undo
+[2025-05-23 12:30:50] Command: STATUS | 📍 Position: (0, 2) | Facing: N
+[2025-05-23 12:30:50] Command: UNDO | ❌ Nothing to undo
+[2025-05-23 12:32:34] Command: STATUS | 📍 Position: (0, 0) | Facing: N
+[2025-05-23 12:32:40] Command: STATUS | 📍 Position: (0, 1) | Facing: N
+[2025-05-23 12:32:40] Command: MOVE | None
+[2025-05-23 12:32:40] Command: STATUS | 📍 Position: (0, 2) | Facing: N
+[2025-05-23 12:32:40] Command: MOVE | None
+[2025-05-23 12:33:00] Command: STATUS | 📍 Position: (0, 3) | Facing: N
+[2025-05-23 12:33:00] Command: MOVE | None
+[2025-05-23 12:33:03] Command: STATUS | 📍 Position: (0, 3) | Facing: E
+[2025-05-23 12:33:03] Command: RIGHT | None
+[2025-05-23 12:33:04] Command: STATUS | 📍 Position: (0, 0) | Facing: N
+[2025-05-23 12:33:04] Command: RESET | 🔄 Reset to start
+[2025-05-23 12:33:44] Command: STATUS | 📍 Position: (0, 0) | Facing: N
+[2025-05-23 12:33:44] Command: UNDO | ❌ Nothing to undo
+[2025-05-23 12:33:58] Command: STATUS | 📍 Position: (0, 1) | Facing: N
+[2025-05-23 12:33:58] Command: MOVE | None
+[2025-05-23 12:33:59] Command: STATUS | 📍 Position: (0, 2) | Facing: N
+[2025-05-23 12:33:59] Command: MOVE | None
+[2025-05-23 12:33:59] Command: STATUS | 📍 Position: (0, 3) | Facing: N
+[2025-05-23 12:33:59] Command: MOVE | None
+[2025-05-23 12:35:52] Command: MOVE | None
+[2025-05-23 12:36:24] Command: MOVE | None
+[2025-05-23 12:37:06] Command: RESET | 🔄 Reset to start
+[2025-05-23 12:40:00] Command: MOVE | None
+[2025-05-23 12:40:03] Command: MOVE | None
+[2025-05-23 12:40:03] Command: MOVE | None
+[2025-05-23 12:40:04] Command: MOVE | None
+[2025-05-23 12:40:04] Command: MOVE | None
+[2025-05-23 12:40:06] Command: RIGHT | None
+[2025-05-23 12:40:06] Command: MOVE | None
+[2025-05-23 12:40:07] Command: MOVE | None
+[2025-05-23 12:40:07] Command: MOVE | None
+[2025-05-23 12:40:08] Command: MOVE | None
+[2025-05-23 12:40:08] Command: MOVE | None
+[2025-05-23 12:40:08] Command: MOVE | None
+[2025-05-23 12:40:08] Command: MOVE | None
+[2025-05-23 12:40:08] Command: MOVE | None
+[2025-05-23 12:40:09] Command: MOVE | None
+[2025-05-23 12:40:10] Command: MOVE | None
+[2025-05-23 12:40:11] Command: MOVE | None
+[2025-05-23 12:40:15] Command: RIGHT | None
+[2025-05-23 12:40:16] Command: MOVE | None
+[2025-05-23 12:40:16] Command: MOVE | None
+[2025-05-23 12:40:16] Command: MOVE | None
+[2025-05-23 12:40:17] Command: MOVE | None
+[2025-05-23 12:40:17] Command: MOVE | None
+[2025-05-23 12:40:17] Command: MOVE | None
+[2025-05-23 12:42:25] Command: RESET | 🔄 Reset to start
+[2025-05-23 12:42:28] Command: MOVE | ✅ Moved to (0, 1) facing N
+[2025-05-23 12:42:30] Command: MOVE | ✅ Moved to (0, 2) facing N
+[2025-05-23 12:42:30] Command: MOVE | ✅ Moved to (0, 3) facing N
+[2025-05-23 12:42:31] Command: MOVE | ✅ Moved to (0, 4) facing N
+[2025-05-23 12:42:32] Command: RIGHT | ↩️ Turned right, now facing E
+[2025-05-23 12:42:34] Command: MOVE | ✅ Moved to (1, 4) facing E
+[2025-05-23 12:42:35] Command: MOVE | ✅ Moved to (2, 4) facing E
+[2025-05-23 12:42:35] Command: MOVE | ✅ Moved to (3, 4) facing E
+[2025-05-23 12:42:36] Command: MOVE | ✅ Moved to (4, 4) facing E
+[2025-05-23 12:42:37] Command: RIGHT | ↩️ Turned right, now facing S
+[2025-05-23 12:42:38] Command: MOVE | ✅ Moved to (4, 3) facing S
+[2025-05-23 12:42:39] Command: MOVE | ✅ Moved to (4, 2) facing S
+[2025-05-23 12:42:40] Command: RIGHT | ↩️ Turned right, now facing W
+[2025-05-23 12:42:40] Command: MOVE | ✅ Moved to (3, 2) facing W
+[2025-05-23 12:42:41] Command: MOVE | 🪨 Obstacle detected! Move canceled.
+[2025-05-23 12:42:41] Command: MOVE | 🪨 Obstacle detected! Move canceled.
+[2025-05-23 12:42:43] Command: MOVE | 🪨 Obstacle detected! Move canceled.
+[2025-05-23 12:42:46] Command: MOVE | 🪨 Obstacle detected! Move canceled.
+[2025-05-23 12:42:47] Command: MOVE | 🪨 Obstacle detected! Move canceled.
+[2025-05-23 12:42:48] Command: MOVE | 🪨 Obstacle detected! Move canceled.
+[2025-05-23 12:42:49] Command: RIGHT | ↩️ Turned right, now facing N
+[2025-05-23 12:42:50] Command: MOVE | ✅ Moved to (3, 3) facing N
+[2025-05-23 12:42:51] Command: RIGHT | ↩️ Turned right, now facing E
+[2025-05-23 12:42:52] Command: MOVE | ✅ Moved to (4, 3) facing E
+[2025-05-23 12:42:53] Command: RIGHT | ↩️ Turned right, now facing S
+[2025-05-23 12:42:53] Command: MOVE | ✅ Moved to (4, 2) facing S
+[2025-05-23 12:42:53] Command: MOVE | ✅ Moved to (4, 1) facing S
+[2025-05-23 12:42:54] Command: MOVE | ✅ Moved to (4, 0) facing S
+[2025-05-23 12:42:54] Command: RIGHT | ↩️ Turned right, now facing W
+[2025-05-23 12:42:55] Command: MOVE | ✅ Moved to (3, 0) facing W
+[2025-05-23 12:42:55] Command: MOVE | ✅ Moved to (2, 0) facing W
+[2025-05-23 12:42:55] Command: MOVE | ✅ Moved to (1, 0) facing W
+[2025-05-23 12:42:55] Command: MOVE | ✅ Moved to (0, 0) facing W
+[2025-05-23 12:45:37] Command: MOVE | ✅ Moved to (0, 1) facing N
+[2025-05-23 12:45:40] Command: LEFT | ↪️ Turned left, now facing W
+[2025-05-23 12:47:43] Command: RESET | 🔄 Reset to start
+[2025-05-23 12:47:45] Command: MOVE | ✅ Moved to (0, 1) facing N
+[2025-05-23 12:47:46] Command: MOVE | ✅ Moved to (0, 2) facing N
+[2025-05-23 12:47:47] Command: MOVE | ✅ Moved to (0, 3) facing N
+[2025-05-23 12:47:48] Command: MOVE | ✅ Moved to (0, 4) facing N
+[2025-05-23 12:47:52] Command: LEFT | ↪️ Turned left, now facing W
+[2025-05-23 12:47:53] Command: MOVE | 🚧 Can't move — edge of the terrain!
+[2025-05-23 12:47:53] Command: MOVE | 🚧 Can't move — edge of the terrain!
+[2025-05-23 12:47:53] Command: LEFT | ↪️ Turned left, now facing S
+[2025-05-23 12:47:54] Command: MOVE | ✅ Moved to (0, 3) facing S
+[2025-05-23 12:47:54] Command: MOVE | ✅ Moved to (0, 2) facing S
+[2025-05-23 12:47:57] Command: MOVE | ✅ Moved to (0, 1) facing S
+[2025-05-23 12:47:59] Command: LEFT | ↪️ Turned left, now facing E
+[2025-05-23 12:47:59] Command: MOVE | ✅ Moved to (1, 1) facing E
+[2025-05-23 12:48:00] Command: MOVE | ✅ Moved to (2, 1) facing E
+[2025-05-23 12:48:02] Command: LEFT | ↪️ Turned left, now facing N
+[2025-05-23 12:48:03] Command: MOVE | 🪨 Obstacle detected! Move canceled.
+[2025-05-23 12:48:04] Command: MOVE | 🪨 Obstacle detected! Move canceled.
+[2025-05-23 12:48:05] Command: RIGHT | ↩️ Turned right, now facing E
+[2025-05-23 12:48:05] Command: MOVE | 🪨 Obstacle detected! Move canceled.
+[2025-05-23 12:48:06] Command: RIGHT | ↩️ Turned right, now facing S
+[2025-05-23 12:48:07] Command: MOVE | ✅ Moved to (2, 0) facing S
+[2025-05-23 12:48:09] Command: LEFT | ↪️ Turned left, now facing E
+[2025-05-23 12:48:09] Command: MOVE | ✅ Moved to (3, 0) facing E
+[2025-05-23 12:48:10] Command: MOVE | ✅ Moved to (4, 0) facing E
+[2025-05-23 12:48:14] Command: RESET | 🔄 Reset to start
+[2025-05-23 12:48:16] Command: UNDO | ❌ Nothing to undo
+[2025-05-23 12:48:21] Command: MOVE | ✅ Moved to (0, 1) facing N
+[2025-05-23 12:48:23] Command: UNDO | ↩️ Undid last move
+[2025-05-23 12:48:26] Command: MOVE | ✅ Moved to (0, 1) facing N
+[2025-05-23 13:52:18] Command: MOVE | ✅ Moved to (0, 1) facing N
+[2025-05-23 13:52:20] Command: MOVE | ✅ Moved to (0, 2) facing N
+[2025-05-23 13:52:20] Command: MOVE | ✅ Moved to (0, 3) facing N
+[2025-05-23 13:52:21] Command: MOVE | ✅ Moved to (0, 4) facing N
+[2025-05-23 13:52:22] Command: RIGHT | ↩️ Turned right, now facing E
+[2025-05-23 13:52:23] Command: MOVE | ✅ Moved to (1, 4) facing E
+[2025-05-23 13:52:23] Command: MOVE | ✅ Moved to (2, 4) facing E
+[2025-05-23 13:52:24] Command: MOVE | ✅ Moved to (3, 4) facing E
+[2025-05-23 13:52:25] Command: RIGHT | ↩️ Turned right, now facing S
+[2025-05-23 13:52:26] Command: MOVE | ✅ Moved to (3, 3) facing S
+[2025-05-23 13:52:26] Command: MOVE | ✅ Moved to (3, 2) facing S
+[2025-05-23 13:52:27] Command: LEFT | ↪️ Turned left, now facing E
+[2025-05-23 13:52:28] Command: MOVE | ✅ Moved to (4, 2) facing E
+[2025-05-23 13:52:30] Command: RIGHT | ↩️ Turned right, now facing S
+[2025-05-23 13:52:31] Command: MOVE | ✅ Moved to (4, 1) facing S
+[2025-05-23 13:52:31] Command: MOVE | ✅ Moved to (4, 0) facing S
+[2025-05-23 13:52:33] Command: LEFT | ↪️ Turned left, now facing E
+[2025-05-23 13:52:33] Command: MOVE | 🚧 Can't move — edge of the terrain!
+[2025-05-23 13:52:34] Command: RIGHT | ↩️ Turned right, now facing S
+[2025-05-23 13:52:35] Command: MOVE | 🚧 Can't move — edge of the terrain!
+[2025-05-23 13:52:36] Command: RIGHT | ↩️ Turned right, now facing W
+[2025-05-23 13:52:36] Command: MOVE | ✅ Moved to (3, 0) facing W
+[2025-05-23 13:52:37] Command: MOVE | ✅ Moved to (2, 0) facing W
+[2025-05-23 13:52:39] Command: RIGHT | ↩️ Turned right, now facing N
+[2025-05-23 13:52:40] Command: MOVE | ✅ Moved to (2, 1) facing N
+[2025-05-23 13:52:40] Command: MOVE | 🪨 Obstacle detected! Move canceled.
+[2025-05-23 13:52:42] Command: MOVE | 🪨 Obstacle detected! Move canceled.
+[2025-05-23 13:52:44] Command: LEFT | ↪️ Turned left, now facing W
+[2025-05-23 13:52:45] Command: MOVE | ✅ Moved to (1, 1) facing W
+[2025-05-23 13:52:46] Command: MOVE | ✅ Moved to (0, 1) facing W
+[2025-05-23 13:52:49] Command: RIGHT | ↩️ Turned right, now facing N
+[2025-05-23 13:52:49] Command: MOVE | ✅ Moved to (0, 2) facing N
+[2025-05-23 13:52:50] Command: MOVE | ✅ Moved to (0, 3) facing N
+[2025-05-23 13:52:51] Command: LEFT | ↪️ Turned left, now facing W
+[2025-05-23 13:52:51] Command: LEFT | ↪️ Turned left, now facing S
+[2025-05-23 13:52:52] Command: MOVE | ✅ Moved to (0, 2) facing S
+[2025-05-23 13:52:52] Command: MOVE | ✅ Moved to (0, 1) facing S
+[2025-05-23 13:52:52] Command: MOVE | ✅ Moved to (0, 0) facing S
+[2025-05-23 13:52:54] Command: RESET | 🔄 Reset to start
+[2025-05-23 13:56:33] Command: MOVE | ✅ Moved to (0, 1) facing N
+[2025-05-23 13:56:34] Command: MOVE | ✅ Moved to (0, 2) facing N
+[2025-05-23 13:56:34] Command: MOVE | ✅ Moved to (0, 3) facing N
+[2025-05-23 13:56:35] Command: MOVE | ✅ Moved to (0, 4) facing N
+[2025-05-23 13:56:36] Command: RIGHT | ↩️ Turned right, now facing E
+[2025-05-23 13:56:36] Command: MOVE | ✅ Moved to (1, 4) facing E
+[2025-05-23 13:56:37] Command: MOVE | ✅ Moved to (2, 4) facing E
+[2025-05-23 13:56:37] Command: MOVE | ✅ Moved to (3, 4) facing E
+[2025-05-23 13:56:38] Command: MOVE | ✅ Moved to (4, 4) facing E
+[2025-05-23 13:56:38] Command: RIGHT | ↩️ Turned right, now facing S
+[2025-05-23 13:56:39] Command: MOVE | ✅ Moved to (4, 3) facing S
+[2025-05-23 13:56:39] Command: MOVE | ✅ Moved to (4, 2) facing S
+[2025-05-23 13:56:40] Command: MOVE | ✅ Moved to (4, 1) facing S
+[2025-05-23 13:56:41] Command: MOVE | ✅ Moved to (4, 0) facing S
+[2025-05-23 13:56:42] Command: RIGHT | ↩️ Turned right, now facing W
+[2025-05-23 13:56:42] Command: MOVE | ✅ Moved to (3, 0) facing W
+[2025-05-23 13:56:43] Command: MOVE | ✅ Moved to (2, 0) facing W
+[2025-05-23 13:56:44] Command: RIGHT | ↩️ Turned right, now facing N
+[2025-05-23 13:56:45] Command: MOVE | ✅ Moved to (2, 1) facing N
+[2025-05-23 13:56:46] Command: MOVE | 🪨 Obstacle detected! Move canceled.
+[2025-05-23 13:56:53] Command: LEFT | ↪️ Turned left, now facing W
+[2025-05-23 13:56:53] Command: MOVE | ✅ Moved to (1, 1) facing W
+[2025-05-23 13:56:55] Command: MOVE | ✅ Moved to (0, 1) facing W
+[2025-05-23 13:56:56] Command: RIGHT | ↩️ Turned right, now facing N
+[2025-05-23 13:56:56] Command: MOVE | ✅ Moved to (0, 2) facing N
+[2025-05-23 13:56:58] Command: LEFT | ↪️ Turned left, now facing W
+[2025-05-23 13:56:58] Command: LEFT | ↪️ Turned left, now facing S
+[2025-05-23 13:56:59] Command: MOVE | ✅ Moved to (0, 1) facing S
+[2025-05-23 13:56:59] Command: MOVE | ✅ Moved to (0, 0) facing S
+[2025-05-23 13:57:05] Command: MOVE | 🚧 Can't move — edge of the terrain!
+[2025-05-23 13:57:06] Command: RIGHT | ↩️ Turned right, now facing W
+[2025-05-23 13:57:07] Command: MOVE | 🚧 Can't move — edge of the terrain!
+[2025-05-23 13:57:08] Command: RIGHT | ↩️ Turned right, now facing N
+[2025-05-23 13:57:08] Command: MOVE | ✅ Moved to (0, 1) facing N
+[2025-05-23 13:57:09] Command: MOVE | ✅ Moved to (0, 2) facing N
+[2025-05-23 13:57:10] Command: RIGHT | ↩️ Turned right, now facing E
+[2025-05-23 13:57:11] Command: MOVE | ✅ Moved to (1, 2) facing E
+[2025-05-23 13:57:12] Command: MOVE | 🪨 Obstacle detected! Move canceled.
+[2025-05-23 13:57:18] Command: RESET | 🔄 Reset to start
