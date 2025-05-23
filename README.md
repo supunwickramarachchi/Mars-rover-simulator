@@ -25,7 +25,7 @@ This simulator is part of my self-learning journey toward becoming a software en
 
 ## 📸 Screenshots
 
-![Mars Rover GUI](assets/mars_rover_gui.png)
+![Mars Rover GUI](assets/screenshot_1.PNG)
 ![Sample Video](assets/sample_video.mp4)
 
 
